@@ -1,0 +1,10 @@
+{
+    "name":"drawbee",
+    "version":"1.0.0",
+    "description": "A friendly bee bot that brings you drawing prompts",
+    "main":"drawbee.js",
+    "author":"Uneryx",
+    "dependencies": {
+        "discord.js": "^11.5.1"
+    }
+}
